@@ -1,0 +1,66 @@
+#contenedor{
+width: 90%;
+margin: auto;
+background-color: #7d7d7d;
+}
+
+#encabezado{
+    text-align: center;
+    background-color: #efd80e;
+    align-self: center;
+}
+
+#menu{
+    background-color: #646464;
+    text-align: center;
+}
+
+#derecha{
+    float: right;
+    background-color: #b4b3a8;
+    width: 80%;
+}
+
+
+#izquierda{
+    background-color: #646464;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+ a{
+    color: #ffffff;
+    margin: 0 15px; 
+    font-size: 25px;
+    text-justify: auto;         
+}
+
+p {
+  font-size: 25px;
+  text-justify: auto;
+  color: #ffffff;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+}
+
+h5 {
+    font-size: 25px;
+    text-align: center;
+    color: #ffffff;
+}
+
+h6 {
+    font-size: 25px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#piepagina{
+    clear: both;
+    background-color: #8f0884;
+    padding: 4px;
+}
